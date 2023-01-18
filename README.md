@@ -4,7 +4,7 @@ __btfs-encryption__ is a demo instance project for [BTFS Encrypted Storage Proto
 ## How to install
 - Use go tools
   ```shell
-  go install github.com/bittorrent/btfs-encryption/cmd/btfs-encryption
+  go install github.com/bittorrent/btfs-encryption/cmd/btfs-encryption@latest
   ```
 - Build from source
   if you have installed __golang__ and __make__ tools, you can clone the source code and make:
