@@ -90,7 +90,7 @@ GLOBAL OPTIONS:
 ## Used as library
 The project can be used as library for convenience:
 ```shell
-go install github.com/bittorrent/btfs-encryption 
+go get github.com/bittorrent/btfs-encryption 
 ```
 
 ```go
